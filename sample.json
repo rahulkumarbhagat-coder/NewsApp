@@ -1,0 +1,84 @@
+{
+  "status": "ok",
+  "totalResults": 36,
+  "articles": [
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Washington Post",
+      "title": "Nobel economics prize awarded for studies of prosperity gaps between countries - The Washington Post",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRlJVYWNFcExnMjVqQWtrNHA3bG9NbWRncDlwdV9oYjJFb24teDFWMDgxdTJFb0YxVFZvQkY0eW9lbWxwUkdYYWxaOGpHZE5xWVk5ZjU0VUFzM1Q4el9JVXFvcXNLT293ckVOdHFmVzRabmFFX3FhejJuMVMxTmVFbkxlQ0hvZjZsQnh1OV9kNWxqSW1ZeFZ1SFNIM08xWHdHbWdnRFJmODhWeGZ3anN6aTBBbEltUWI5V01UV0dzdw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-10-14T14:32:11Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Frank Schwab",
+      "title": "Lions DE Aidan Hutchinson undergoes successful surgery after gruesome leg injury in win over Cowboys - Yahoo Sports",
+      "description": "Aidan Hutchinson has been one of the best defensive players in the NFL.",
+      "url": "https://sports.yahoo.com/lions-de-aidan-hutchinson-undergoes-successful-surgery-after-gruesome-leg-injury-in-win-over-cowboys-222638655.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/mfZUg1OBBwezaC0LKm2mxg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-10/210837c0-89b4-11ef-bdef-60178d6b3891",
+      "publishedAt": "2024-10-14T14:24:40Z",
+      "content": "Aidan Hutchinson of the Detroit Lions is tended to by medical staff after injuring his leg. (Photo by Sam Hodde/Getty Images)\r\nThe Detroit Lions had everything rolling on Sunday in a blowout 47-9 vic… [+1812 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Karen Friar",
+      "title": "Stock market today: Nasdaq jumps, S&P 500 trades at record high with earnings on deck - Yahoo Finance",
+      "description": "Stocks are upbeat as Nvidia heads for a fresh record high, with the next batch of big bank earnings in focus.",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-heads-for-record-high-nasdaq-jumps-as-nvidia-surges-133032752.html",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+      "publishedAt": "2024-10-14T14:13:00Z",
+      "content": "US stocks rose on Monday to head for fresh record highs as Nvidia shares climbed and investors prepared for more big bank earnings to test that rally and the chances of an economic \"soft landing.\"\r\nT… [+6471 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Leslie Josephs",
+      "title": "Boeing factory strike crosses 1-month mark as pressure mounts on new CEO - CNBC",
+      "description": "Boeing's CEO Ortberg will answer to investors in his first Oct. 23 earnings presentation as the aerospace giant faces swirling crises.",
+      "url": "https://www.cnbc.com/2024/10/14/boeing-factory-strike-1-month.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108034097-1726248394524-gettyimages-2170940602-776205803sb09.jpeg?v=1726248494&w=1920&h=1080",
+      "publishedAt": "2024-10-14T14:00:01Z",
+      "content": "Boeing Machinists union members picket outside a Boeing factory on September 13, 2024 in Renton, Washington. \r\nIt's been just over a month since more than 30,000 Boeing machinists walked off the job … [+6217 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "See SpaceX Starship's full Earth re-entry, splashdown and explosive ending - VideoFromSpace",
+      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "url": "https://www.youtube.com/",
+      "urlToImage": "https://www.youtube.com/img/desktop/yt_1200.png",
+      "publishedAt": "2024-10-14T13:40:15Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WESH Orlando"
+      },
+      "author": "Averi Kremposky",
+      "title": "NHC monitoring Invest 94-L, possible tropical depression; Florida impacts seem low for now - WESH 2 Orlando",
+      "description": "Current models don't show the system impacting Florida, but WESH 2's First Warning Weather team is continuously monitoring the tropics. Here's the latest:",
+      "url": "https://www.wesh.com/article/latest-on-tropics-disturbance-atlantic-florida/62594832",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gz2tugkxeakscos-670d07407c7b4.jfif?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2024-10-14T13:02:00Z",
+      "content": "ORLANDO, Fla. —Right on the heels of Hurricane Helene and Milton's devastating paths through Florida, the NHC is monitoring Invest 94-L, which could form into a tropical depression this week.\r\n&gt; R… [+2270 chars]"
+    }
+  ]
+}
